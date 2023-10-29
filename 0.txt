@@ -1,0 +1,3 @@
+key                  type                 expire               value
+myhash               HASHMAP_AS_LISTPACK  null                 field1,val1,f2,v2,f3,v3,
+foo                  VALUE                null                 bar,
